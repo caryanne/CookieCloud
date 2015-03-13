@@ -1,1 +1,1 @@
-var fb = new Firebase("https://<your-firebase>.firebaseio.com");
+var fb = new Firebase("https://capecod.firebaseio.com");
